@@ -48,4 +48,4 @@ In Developer Options, enable `USB Debugging` and `Wireless Debugging`.
 When running the command in Step 1, your phone will display a message saying `Allow USB Debugging?`. If you are using a trusted personal device, you can check `Always allow from this computer` to avoid that message.
 
 ## Support
-If you run into problems, join my public [Discord]()
+If you run into problems, join my public [Discord](https://discord.com/invite/cUnkxxfJ5b) and ask for help.
