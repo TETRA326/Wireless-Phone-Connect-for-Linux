@@ -29,6 +29,9 @@ The script searches all devices on the network for your MAC address. Most Androi
 
 (*Note that this was done on Samsung. Instructions should be similar for most other Androids. If not, Google it.*)
 
+### ⚠️ ATTENTION!! ⚠️
+The script has a placeholder MAC address. You NEED to change it to your new static MAC for this to work.
+
 ### 4. Turn on USB and Wireless Debugging
 Go to your phone settings.
 
@@ -37,3 +40,12 @@ Go to `About Phone`.
 Navigate to `Build Number`. (Can usually be found under Software Information)
 
 Tap on `Build Number` 7 times to enable Developer Options.
+
+You can now find `Developer Options` either in the Settings main page, or under About Phone.
+
+In Developer Options, enable `USB Debugging` and `Wireless Debugging`.
+
+When running the command in Step 1, your phone will display a message saying `Allow USB Debugging?`. If you are using a trusted personal device, you can check `Always allow from this computer` to avoid that message.
+
+## Support
+If you run into problems, join my public [Discord]()
