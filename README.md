@@ -25,7 +25,7 @@ sudo apt-get install scrcpy arp-scan -y
 ### 3. Static MAC Address
 The script searches all devices on the network for your MAC address. Most Android phones automatically randomize your MAC address. This obviously causes issues.
 
-[Here are instructions on how to set your home Wi-Fi to your static MAC address](https://google.com/search?q=temp)
+[Here are instructions on how to set your home Wi-Fi to your static MAC address](/MAC.md)
 
 (*Note that this was done on Samsung. Instructions should be similar for most other Androids. If not, Google it.*)
 
