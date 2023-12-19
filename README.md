@@ -23,7 +23,7 @@ This is intended to be used exclusively at home or work. Similar commands can be
 
 6. In Developer Options, enable `USB Debugging` and `Wireless Debugging`.
 
-7. When running the command in Step 1, your phone will display a message saying `Allow USB Debugging?`. If you are using a trusted personal device, you can check `Always allow from this computer` to avoid that message.
+7. When running the command in Step 2, your phone will display a message saying `Allow USB Debugging?`. If you are using a trusted personal device, you can check `Always allow from this computer` to avoid that message.
 
 ### 2. Make device available over Wi-Fi
 Before it will work, you must plug in your phone via USB and run the following command in a Linux terminal:
