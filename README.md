@@ -14,6 +14,8 @@ Before it will work, you must plug in your phone via USB and run the following c
 ```
 adb tcpip 5555
 ```
+You can now unplug your phone.
+
 *Note: You must do this after every time you restart your phone.*
 
 ### 2. Install required apps
