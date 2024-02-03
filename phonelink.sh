@@ -23,10 +23,8 @@ adb_output=$($adb_command)
 
 # Check if the connection is successful
 if [[ $adb_output =~ "failed to connect" ]]; then
-  echo -e "${red}Failed to connect.${reset} Please plug in your phone, then press ${cyan}Enter${reset}."
-  read -r
-  adb tcpip 5555
-  $adb_command
+  echo -e "${red}Failed to connect.${reset} Please plug in your phone and run: ${cyan}adb tcpip 5555${reset}."
+  exit 1
 fi
 
 # Run Scrcpy
