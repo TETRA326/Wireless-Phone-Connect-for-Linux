@@ -50,5 +50,15 @@ The script searches all devices on the network for your MAC address. Most Androi
 ### ⚠️ ATTENTION!! ⚠️
 The script has a placeholder MAC address. You NEED to change it to your new static MAC for this to work.
 
+## Download the Script
+### Command-Line:
+```
+wget https://raw.githubusercontent.com/TETRA326/Wireless-Phone-Connect-for-Linux/main/phonelink.sh
+```
+*=-= Or =-=*
+### File:
+1. Go to [here](https://github.com/TETRA326/Wireless-Phone-Connect-for-Linux/blob/main/phonelink.sh).
+2. Click the Download Raw File button
+
 ## Support
 If you run into problems, join my public [Discord](https://discord.com/invite/cUnkxxfJ5b) and ask for help.
