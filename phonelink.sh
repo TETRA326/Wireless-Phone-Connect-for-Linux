@@ -6,7 +6,7 @@ cyan=$(tput setaf 6)
 reset=$(tput sgr0)
 
 # List devices on the network
-arp_output=$(sudo arp-scan -l | grep 70:74:14:27:a3:7d) # PUT IN YOUR OWN MAC!!!!!
+arp_output=$(sudo arp-scan -l | grep 70:74:15:27:a3:7d) # PUT IN YOUR OWN MAC!!!!!
 
 # Check if any device is found
 if [ -z "$arp_output" ]; then
